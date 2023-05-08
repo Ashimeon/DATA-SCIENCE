@@ -51,4 +51,5 @@ git restore --staged (file name)   --->add ma gako reset
 
 
 git pull
+git pull origin branch-name
 '''
