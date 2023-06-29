@@ -71,8 +71,8 @@ git pull origin branch-name
 '''
 5. for folder:
 
-mkdir ashim
-cd ashim
+mkdir eon
+cd eon
 # cd ..
 
 git log (commit history)
